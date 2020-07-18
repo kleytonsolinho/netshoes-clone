@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  NetShoes Clone App with React and Redux.
+  NetShoes Clone App com ReactJS e Redux.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kleytonsolinho/netshoes-clone.svg">
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">Licença</a>
 </p>
 
 ![App Screenshot](https://res.cloudinary.com/lukemorales/image/upload/v1563042321/readme_logos/rocketshoes_readme_swvhr9.png)
@@ -41,7 +41,9 @@
   </a>
 </p>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
+
+Esta aplicação foi desenolvida com as tecnologias abaixo:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Redux](https://redux.js.org/)
@@ -60,7 +62,7 @@
 -  [Reactotron](https://infinite.red/reactotron)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## :information_source: How To Use
+## :information_source: Instalação e execução
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
 
@@ -78,8 +80,16 @@ $ yarn install
 $ yarn start
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/kleytonsolinho/netshoes-clone/blob/master/LICENSE) for more information.
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/kleytonsolinho/netshoes-clone/blob/master/LICENSE) para mais detalhes.
+
+---
+
+## 🙏 Agradecimentos 
+
+- CTO Rocketseat [Diego Fernandes](https://github.com/diego3g)
+- Rocketseat pela semana de Aprendizagem [Rocketseat](https://github.com/rocketseat)
 
 ---
 
