@@ -64,7 +64,7 @@ Esta aplicação foi desenolvida com as tecnologias abaixo:
 
 ## :information_source: Instalação e execução
 
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou superior + [Yarn v1.13][yarn] or ou superior instalado no seu computador. No seu terminal digite os comandos abaixo:
+Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou superior + [Yarn v1.13][yarn] ou superior instalado no seu computador. No seu terminal digite os comandos abaixo:
 
 ```bash
 # Clone this repository
